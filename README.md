@@ -11,7 +11,7 @@ Download the [production version][min] or the [development version][max].
 ## Documentation
 [See documentation here][documentation]
 
-[documentation]: https://jeromesmadja.github.io/initmapjs/
+[documentation]: http://jeromesmadja.github.io/initmapjs/
 
 ## Release History
 __1.0.0__ Initial version

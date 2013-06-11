@@ -14,6 +14,8 @@ Download the [production version][min] or the [development version][max].
 [documentation]: http://jeromesmadja.github.io/initmapjs/
 
 ## Release History
+__1.0.6__ Updated manifest version
+__1.0.5__ Updated manifest: add homepage and docs urls     
 __1.0.4__ Setup post-receive hook for jQuery plugin registry correctly     
 __1.0.3__ Testing for jQuery plugin registry    
 __1.0.2__ Testing for jQuery plugin registry    

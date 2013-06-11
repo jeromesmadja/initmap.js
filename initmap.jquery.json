@@ -2,7 +2,7 @@
   "name": "initmap",
   "title": "Google Maps jQuery plugin",
   "description": "jQuery plugin for embedding Google Maps",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "homepage": "http://jeromesmadja.github.io/initmapjs/",
   "author": {
     "name": "Jerome Smadja",

@@ -14,4 +14,5 @@ Download the [production version][min] or the [development version][max].
 [documentation]: http://jeromesmadja.github.io/initmapjs/
 
 ## Release History
+__1.0.1__ Post-Receive Hook for jQuery plugin registry
 __1.0.0__ Initial version

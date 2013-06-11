@@ -23,5 +23,7 @@
   "dependencies": {
     "jquery": "1.9.1"
   },
-  "keywords": []
+  "keywords": [],
+  "homepage": "http://jeromesmadja.github.io/initmapjs/",
+  "docs": "http://jeromesmadja.github.io/initmapjs/documentation.html"
 }

@@ -1,4 +1,4 @@
-/*! Google Maps jQuery plugin - v1.0.0 - 2013-06-09
+/*! Google Maps jQuery plugin - v1.0.0 - 2013-06-11
 * https://github.com/jeromesmadja/initmap.js
 * 2013 Jerome Smadja; Licensed MIT */
 ;( function( $ )

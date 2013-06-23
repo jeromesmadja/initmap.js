@@ -13,5 +13,6 @@ Download the [production version][min] or the [development version][max].
 
 [documentation]: http://jeromesmadja.github.io/initmapjs/
 
-## Release History  
+## Release History
+__1.1.0__ Added unsupported callback function on HTML5 geolocation, for older browsers  
 __1.0.0__ Initial version

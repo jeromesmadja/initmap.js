@@ -1,5 +1,5 @@
-/*! Google Maps jQuery plugin - v1.0.0 - 2013-06-11
-* https://github.com/jeromesmadja/initmap.js
+/*! Google Maps jQuery plugin - v1.0.6 - 2013-06-23
+* http://jeromesmadja.github.io/initmapjs/
 * 2013 Jerome Smadja; Licensed MIT */
 ;( function( $ )
 {
@@ -905,7 +905,10 @@
             }
             else
             {
-                self.error ( { 'message' : 'The browser doesn\'t support geolocation.' , 'code' : 4 } );
+               if ( typeof settings.unsupported === 'function' )
+                {
+                    settings.unsupported.call( self.map );
+                }
             }
         };
 

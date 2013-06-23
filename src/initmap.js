@@ -902,7 +902,10 @@
             }
             else
             {
-                self.error ( { 'message' : 'The browser doesn\'t support geolocation.' , 'code' : 4 } );
+               if ( typeof settings.unsupported === 'function' )
+                {
+                    settings.unsupported.call( self.map );
+                }
             }
         };
 

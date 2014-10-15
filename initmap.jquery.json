@@ -2,28 +2,28 @@
   "name": "initmap",
   "title": "Google Maps jQuery plugin",
   "description": "jQuery plugin for embedding Google Maps",
-  "version": "1.1.0",
-  "homepage": "http://jeromesmadja.github.io/initmapjs/",
+  "version": "1.1.1",
+  "homepage": "http://wakooka.github.io/initmapjs/",
   "author": {
     "name": "Jerome Smadja",
     "email": "jerome.smadja@gmail.com",
-    "url": "https://twitter.com/jeromesmadja"
+    "url": "https://twitter.com/wakooka"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeromesmadja/initmap.js.git"
+    "url": "https://github.com/wakooka/initmap.js.git"
   },
-  "bugs": "https://github.com/jeromesmadja/initmap.js/issues",
+  "bugs": "https://github.com/wakooka/initmap.js/issues",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jeromesmadja/initmap.js/blob/master/LICENSE-MIT"
+      "url": "https://github.com/wakooka/initmap.js/blob/master/LICENSE-MIT"
     }
   ],
   "dependencies": {
     "jquery": "1.9.1"
   },
   "keywords": [],
-  "homepage": "http://jeromesmadja.github.io/initmapjs/",
-  "docs": "http://jeromesmadja.github.io/initmapjs/documentation.html"
+  "homepage": "http://wakooka.github.io/initmapjs/",
+  "docs": "http://wakooka.github.io/initmapjs/documentation.html"
 }
